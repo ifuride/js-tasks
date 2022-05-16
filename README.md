@@ -1,3 +1,3 @@
 # js-tasks
 
-# Repo for solving JS tass
+# Repo for solving JS tasks
